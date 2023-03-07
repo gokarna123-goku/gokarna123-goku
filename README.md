@@ -1,7 +1,11 @@
 
 # 💫 About Me:
-🔭 I’m currently working on Front-End Development<br>👯 I’m looking to collaborate on Front-End, UX/UI Development<br>🤝 I’m looking for help with support me on social platform<br>🌱 I’m currently learning Full-Stack Development<br>💬 Ask me about Front-End development related content<br>⚡ Fun fact - I am Funny 😀
+🔭 I’m currently working on **Front-End Development**<br>👯 I’m looking to collaborate on Front-End, UX/UI Development<br>🤝 I’m looking for help with support me on social platform<br>🌱 I’m currently learning Full-Stack Development<br>💬 Ask me about Front-End development related content<br>⚡ Fun fact - I am Funny 😀
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=gokarna123-goku&theme=radical&hide_border=false&include_all_commits=true&count_private=true) - 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gokarna123-goku&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br/> <br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gokarna123-goku&theme=radical&hide_border=false)
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/gokarnaadhikari) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/9BhRT9Ae) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/theac_goku153/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gokarna-a-583b0b245/) 
@@ -36,10 +40,6 @@
 
 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gokarna123-goku&theme=radical&hide_border=false&include_all_commits=true&count_private=true) - 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gokarna123-goku&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br/> <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gokarna123-goku&theme=radical&hide_border=false)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gokarna123-goku&theme=radical&no-frame=false&no-bg=false&margin-w=17&margin-h=17)
@@ -49,7 +49,7 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=gokarna123-goku&icon=5&color=2)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=gokarna123-goku&icon=5&color=1)](https://visitcount.itsvg.in)
 
 
 
