@@ -49,7 +49,7 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=gokarna123-goku&icon=5&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=gokarna123-goku&icon=5&color=3)](https://visitcount.itsvg.in)
 
 
 
