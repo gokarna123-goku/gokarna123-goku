@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on **Front-End Development**<br>👯 I’m looking to collaborate on Front-End, UX/UI Development<br>🤝 I’m looking for help with support me on social platform<br>🌱 I’m currently learning Full-Stack Development<br>💬 Ask me about Front-End development related content<br>⚡ Fun fact - I am Funny 😀
+🔭 I’m currently working on **Front-End Development**<br>👯 I’m looking to collaborate on **Front-End, UX/UI Development** <br>🤝 I’m looking for help to **support me on social platform** <br>🌱 I’m currently **learning Full-Stack Development** <br>💬 Ask me about **Front-End development related content** <br>⚡ Fun fact - I am **Funny** 😀
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gokarna123-goku&theme=radical&hide_border=false&include_all_commits=true&count_private=true) - 
