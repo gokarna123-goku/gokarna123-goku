@@ -2,6 +2,17 @@
 # 💫 About Me:
 🔭 I’m currently working on **Front-End Development**<br>👯 I’m looking to collaborate on **Front-End, UX/UI Development** <br>🤝 I’m looking for help to **support me on social platform** <br>🌱 I’m currently **learning Full-Stack Development** <br>💬 Ask me about **Front-End development related content** <br>⚡ Fun fact - I am **Funny** 😀
 
+### Short Introduction
+Hey there 👋, I'm Gokarna Adhikari, a skilled front-end developer with over 1 year of experience in building modern and responsive web applications and mobile apps as well. Throughout my career, I have gained extensive knowledge and expertise in front-end web development, as well as web design and user experience. I have experience using a variety of programming languages and frameworks, including HTML, CSS, JavaScript, & React, among others. I have worked on a variety of projects, ranging from small business websites to large-scale enterprise applications.
+
+I am passionate about staying up-to-date with the latest web technologies and trends, and I am always eager to learn new skills and expand my knowledge. I have strong attention to detail, and I take pride in producing high-quality, clean, and efficient code. I am also committed to delivering projects on time and on budget while maintaining excellent communication with clients and colleagues.
+
+I pride myself on being a reliable and communicative team player, and I always make sure to deliver high-quality work on time and within budget. Whether you're looking for a simple website or a complex web application, I'm confident that I have the skills and expertise to bring your vision to life.
+
+Besides that, I worked as a Full-Stack developer at Global We Tech Care Company, where I was responsible for managing the project using the Django framework and the MySQL database. As a result, maybe I am now capable to work on Full-Stack development as well. (MERN, & Django)
+
+Let's chat about your project and how I can help you achieve your goals!
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gokarna123-goku&theme=radical&hide_border=false&include_all_commits=true&count_private=true) - 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gokarna123-goku&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br/> <br/>
