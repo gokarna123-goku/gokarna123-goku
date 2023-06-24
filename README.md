@@ -36,7 +36,7 @@ Let's chat about your project and how I can help you achieve your goals!
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 
-### - Desining Tools
+### - Designing Tools
 
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
@@ -56,7 +56,8 @@ Let's chat about your project and how I can help you achieve your goals!
 
 [![](https://visitcount.itsvg.in/api?id=gokarna123-goku&icon=5&color=3)](https://visitcount.itsvg.in)
 
-<br/> <br/>
+<br/>
+
 **<p align="center"> Let's Work Together 💻 </p>**
 
 
