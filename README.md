@@ -10,7 +10,7 @@ Let's chat about your project and how I can help you achieve your goals!
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gokarna123-goku&theme=radical&hide_border=false&include_all_commits=true&count_private=true) - 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gokarna123-goku&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br/> <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gokarna123-goku&theme=radical&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=gokarna123-goku&theme=radical&hide_border=false)
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/gokarnaadhikari) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/9BhRT9Ae) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/theac_goku153/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gokarna-a-583b0b245/) 
