@@ -48,15 +48,32 @@ Let's chat about your project and how I can help you achieve your goals!
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gokarna123-goku&theme=radical&no-frame=false&no-bg=false&margin-w=17&margin-h=17)
 
-### ✍️ Random Dev Quote
+
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=gokarna123-goku&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=gokarna123-goku&icon=5&color=3)](https://visitcount.itsvg.in)
+## 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 500px;"/>
+
+<br />
+
+
+**<p align="center"> Let's Work Together 💻 </p>**
+
 
 <br/>
 
-**<p align="center"> Let's Work Together 💻 </p>**
+
+## 👀 Total Profile Visits: 
+
+[![](https://visitcount.itsvg.in/api?id=gokarna123-goku&icon=5&color=3)](https://visitcount.itsvg.in)
+
+
 
 
