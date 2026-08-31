@@ -1,10 +1,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2E22,100:408C56&height=220&section=header&text=Hi%20There,%20I'm%20Gokarna%20%F0%9F%91%8B&fontSize=38&fontColor=F5F4F1&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20DevOps%20%7C%20Founder%20of%20root8&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2E22,100:408C56&height=220&section=header&text=Hi%20there,%20I'm%20Gokarna%20%F0%9F%91%8B&fontSize=38&fontColor=F5F4F1&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20DevOps%20%7C%20Founder%20of%20G-Tech%20Official&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=408C56&center=true&vCenter=true&width=650&lines=Building+products+at+Edu+Click+%F0%9F%9A%80;Founder+%40+root8+Studio;React+%7C+Next.js+%7C+Django+%7C+Node;Turning+ideas+into+shipped+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=408C56&center=true&vCenter=true&width=650&lines=Building+SAAS+Products+%F0%9F%9A%80;Founder+%40+G-Tech+Official;React+%7C+Next.js+%7C+Django+%7C+Node;Turning+ideas+into+shipped+systems" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -97,7 +97,6 @@ I'm **Gokarna Adhikari** — a full-stack engineer based in Kathmandu, Nepal, wo
 
 <br/>
 
-## 🐍 Contribution Snake
 
 <div align="center">
 <picture>
@@ -106,42 +105,6 @@ I'm **Gokarna Adhikari** — a full-stack engineer based in Kathmandu, Nepal, wo
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gokarna123-goku/gokarna123-goku/output/github-contribution-grid-snake.svg" />
 </picture>
 </div>
-
-> ⚙️ **One-time setup needed.** This animation only appears once the workflow below has run at least once inside your `gokarna123-goku/gokarna123-goku` repo. Save it as `.github/workflows/snake.yml`, push it, then trigger it once from the Actions tab (or wait for the daily cron).
-
-<details>
-<summary>📄 Snake workflow YAML — click to expand</summary>
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        id: snake
-        with:
-          github_user_name: gokarna123-goku
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 <br/>
 
