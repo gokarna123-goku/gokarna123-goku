@@ -29,8 +29,8 @@
 
 I'm **Gokarna Adhikari** — a full-stack engineer based in Kathmandu, Nepal, working across the whole stack from pixel-perfect frontends to the DevOps pipelines that ship them.
 
-- 🏢 Building internal platforms, CRMs, and AI-assisted tooling at **Edu Click** (study-abroad consultancy)
-- 🚀 Running **[root8](https://adhikarigokarna.com.np/)** — my own studio for full-stack engineering + UI/UX
+- 🏢 Building internal platforms, CRMs, and AI-assisted tool, Portfolios, & Other SAAS Products
+- 🚀 Running **[G-Tech Official](https://www.youtube.com/@g-techofficial)** — my own studio for full-stack engineering + UI/UX
 - 🌱 Currently deep in system design, DevOps, and AI-integrated products
 - 💬 Ask me about React / Next.js, Django, Node.js, or shipping a SaaS MVP fast
 - ⚡ Fun fact: I'd rather ship it than talk about it
