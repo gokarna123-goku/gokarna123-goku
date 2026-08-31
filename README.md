@@ -16,7 +16,7 @@
 <a href="https://www.behance.net/gokarnaadhikari"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
 <a href="https://discord.gg/9BhRT9Ae"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 
-<br/><br/>
+
 
 <img src="https://komarev.com/ghpvc/?username=gokarna123-goku&label=Profile%20Views&color=408C56&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/gokarna123-goku?label=Followers&style=for-the-badge&color=408C56" />
